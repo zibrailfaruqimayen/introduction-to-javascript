@@ -6,4 +6,12 @@ var totalPrice = price1 + price2;
 var firstName ='Jennie';
 var lastName = 'Kim';
 var fullName = firstName + ' ' + lastName;
+// console.log(fullName);
+
+
+// practice problem 3
+
+var firstName ='I am going to be';
+var lastName = 'an awesome web developer';
+var fullName = firstName + ' ' + lastName;
 console.log(fullName);
